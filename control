@@ -3,7 +3,7 @@ Name: SlopGram
 Version: 1.1.0
 Architecture: iphoneos-arm
 Description: Instagram with friction on Reels and feed. Based on SCInsta.
-Homepage: https://github.com/SoCuul/SCInsta
+Homepage: https://github.com/leoyanis/SlopGram
 Maintainer: SlopGram
 Author: SlopGram (based on SCInsta by SoCuul)
 Section: Tweaks
